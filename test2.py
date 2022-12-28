@@ -1,0 +1,30 @@
+import turtle
+
+laki=turtle.Turtle()
+laki.shape('turtle')
+laki.color('green')
+
+for i in range(16):
+    laki.width(3)
+    laki.penup()
+    laki.goto(-10,-10)
+    laki.pendown()
+    laki.forward(200)
+    laki.left(45)
+  
+    laki.forward(50)
+    laki.left(45)
+    laki.forward(50)
+    laki.left(45)
+    laki.forward(50)
+    laki.left(45)
+    laki.forward(50)
+    laki.left(45)
+    laki.forward(50)
+    laki.left(45)    
+    laki.forward(50)
+    laki.left(45)
+    laki.forward(50)
+    laki.left(45)
+    laki.forward(50)
+    laki.left(45)    

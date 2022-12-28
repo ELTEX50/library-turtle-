@@ -1,0 +1,5 @@
+a=input('name>>')
+b=input('last name>>')
+c=input('student name>>')
+d=input('mobile>>')
+print('name '+a,'\n','last name'+b,'\n','student code'+c,'\n','mobile'+d,'\n')
